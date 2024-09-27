@@ -1,1 +1,3 @@
 Scripts
+
+pip install pillow
