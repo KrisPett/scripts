@@ -3,9 +3,9 @@ import math
 import time
 from pynput.mouse import Listener
 
-RADIUS = 4
-STEPS = 4
-DELAY = 0.0000001
+RADIUS = 30
+STEPS = 30
+DELAY = 0.01
 
 stop_flag = False
 
